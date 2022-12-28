@@ -7,7 +7,7 @@
 ### Project is a webpack + react
 
 * Demo
-** https://github.com/shiva177/React_Quiz_Website **
+** https://github.com/shiva177/Quiz_website.github.io **
 
 * Install
 ``
